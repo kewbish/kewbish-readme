@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! I'm Kewbish.
+Also known as Emilie.   
+I'm a student software developer, excited to build, develop, and create.  
+Right now, I'm an intern at [Liquid Galaxy](https://liquidgalaxy.eu).
 
-<!--
-**kewbish/kewbish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 I work with:
+- Web development with HTML, CSS, Bootstrap, Bulma + Hugo
+- CLI and misc. development with Python
+- Currently exploring Flask and Vue
 
-Here are some ideas to get you started:
+### 🏆 Achievements:
+- [Google Code-in 2019 Grand Prize Winner](https://codein.withgoogle.com/archive/2019/)
+- [Grant For The Web Hackathon Winner](https://dev.to/devteam/announcing-the-grant-for-the-web-x-dev-hackathon-winners-1nl4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗺️ Find me on:
+- [My website (and blog too!)](https://kewbish.github.io/)
+- [Dev.to](https://dev.to/kewbish)
+- [LinkedIn](https://www.linkedin.com/in/kewbish/)
+
+Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).  
+Check out some of my projects below!
