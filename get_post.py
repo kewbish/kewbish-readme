@@ -1,9 +1,8 @@
 from feedparser import parse
 
 feed = parse("https://kewbish.github.io/blog/index.xml").entries
-latest = f"""
-<div style="border: 1px solid; border-radius: 5px; padding: 0.5% 1%; width: 50%;">
-\n<h3><a href="{feed[0].link}">{feed[0].title} 🖋️</a></h3>\n
+latest = f"""<div style="border: 1px solid; border-radius: 5px; padding: 0.5% 1%; width: 50%;">
+<h3><a href="{feed[0].link}">{feed[0].title} 🖋️</a></h3>
 <p>{feed[0].description} - <small>{feed[0].published}</small></p>\n</div>"""
 
 farr = []
