@@ -19,3 +19,5 @@ Right now, I'm an intern at [Liquid Galaxy](https://liquidgalaxy.eu).
 
 Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).  
 Check out some of my projects below!
+
+<!--bp-->
