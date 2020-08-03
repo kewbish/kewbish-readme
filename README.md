@@ -13,9 +13,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Automating READMEs](https://kewbish.github.io/blog/posts/200802/)  
+On my tinkering with automation. - 02 Aug 2020
 - [CS50: Weeks 6 / 7](https://kewbish.github.io/blog/posts/200726/)  
 On Python and selects, inserts, and wheres. - 26 Jul 2020
 - [CS50: Week 5](https://kewbish.github.io/blog/posts/200719/)  
 On my final encounters with C. - 19 Jul 2020
-- [CS50: Weeks 3 / 4](https://kewbish.github.io/blog/posts/200712/)  
-On my attempts at the infamous Tideman. - 12 Jul 2020
