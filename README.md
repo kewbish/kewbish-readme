@@ -13,9 +13,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [A Manjaro Installation](https://kewbish.github.io/blog/posts/200906/)  
+On my shiny new dual-boot system. - 06 Sep 2020
 - [Internet Naming](https://kewbish.github.io/blog/posts/200830/)  
 On my week's musings on names. - 30 Aug 2020
 - [My Experience at HT6](https://kewbish.github.io/blog/posts/200822/)  
 On my battles with JSON.stringify(). - 23 Aug 2020
-- [CS50: The End](https://kewbish.github.io/blog/posts/200816/)  
-On my final thoughts about CS50. - 16 Aug 2020
