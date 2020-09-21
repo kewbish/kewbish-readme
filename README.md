@@ -13,9 +13,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Webdev in Vim](https://kewbish.github.io/blog/posts/200920/)  
+On Vim for web development. - 20 Sep 2020
 - [Vim Colourschemes](https://kewbish.github.io/blog/posts/200913/)  
 On my decision to go monochrome. - 13 Sep 2020
 - [A Manjaro Installation](https://kewbish.github.io/blog/posts/200906/)  
 On my shiny new dual-boot system. - 06 Sep 2020
-- [Internet Naming](https://kewbish.github.io/blog/posts/200830/)  
-On my week's musings on names. - 30 Aug 2020
