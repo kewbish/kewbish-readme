@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [The story of 'Kewbish'](https://kewbish.github.io/blog/posts/201004/)  
+On the true meaning of Kewbish. - 04 Oct 2020
 - [Creating a Vim plugin](https://kewbish.github.io/blog/posts/200927/)  
 On playing with a little Vimscript. - 27 Sep 2020
 - [Webdev in Vim](https://kewbish.github.io/blog/posts/200920/)  
 On Vim for web development. - 20 Sep 2020
-- [Vim Colourschemes](https://kewbish.github.io/blog/posts/200913/)  
-On my decision to go monochrome. - 13 Sep 2020
