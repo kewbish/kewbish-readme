@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
-- [A metawrite](https://kewbish.github.io/blog/posts/201011/)  
+- [A metawrite](https://kewbi.sh/blog/posts/201011/)  
 On writing about writing (about writing). - 11 Oct 2020
-- [The story of 'Kewbish'](https://kewbish.github.io/blog/posts/201004/)  
+- [The story of 'Kewbish'](https://kewbi.sh/blog/posts/201004/)  
 On the true meaning of Kewbish. - 04 Oct 2020
-- [Creating a Vim plugin](https://kewbish.github.io/blog/posts/200927/)  
+- [Creating a Vim plugin](https://kewbi.sh/blog/posts/200927/)  
 On playing with a little Vimscript. - 27 Sep 2020
