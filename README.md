@@ -7,7 +7,7 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
-- [Vim Spaced Recall](https://kewbi.sh/blog/posts/201025/)  
+- [Spaced Recall in Vim](https://kewbi.sh/blog/posts/201025/)  
 On active learning combined with Vim. - 25 Oct 2020
 - [Minutiae](https://kewbi.sh/blog/posts/201018/)  
 On working with the small. - 18 Oct 2020
