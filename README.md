@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Changing communication](https://kewbi.sh/blog/posts/201101/)  
+On what forms software encourages. - 01 Nov 2020
 - [Spaced Recall in Vim](https://kewbi.sh/blog/posts/201025/)  
 On active learning combined with Vim. - 25 Oct 2020
 - [Minutiae](https://kewbi.sh/blog/posts/201018/)  
 On working with the small. - 18 Oct 2020
-- [A metawrite](https://kewbi.sh/blog/posts/201011/)  
-On writing about writing (about writing). - 11 Oct 2020
