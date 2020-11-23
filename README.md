@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Git and iOS](https://kewbi.sh/blog/posts/201122/)  
+On crossplatform repo editing. - 22 Nov 2020
 - [Racket and Chip-8](https://kewbi.sh/blog/posts/201115/)  
 On contemplating opcodes. - 15 Nov 2020
 - [@everyone](https://kewbi.sh/blog/posts/201108/)  
 On notifications and muting them. - 08 Nov 2020
-- [Changing communication](https://kewbi.sh/blog/posts/201101/)  
-On what forms software encourages. - 01 Nov 2020
