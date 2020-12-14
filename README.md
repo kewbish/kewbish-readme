@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [CPSC 110: 1a](https://kewbi.sh/blog/posts/201213/)  
+On finding my way into CPSC 110. - 13 Dec 2020
 - [Morse Code Context](https://kewbi.sh/blog/posts/201206/)  
 On dots, dashes, and annotations. - 06 Dec 2020
 - [A Continuation of rack8](https://kewbi.sh/blog/posts/201129/)  
 On Racket and Chip-8, part 2. - 29 Nov 2020
-- [Git and iOS](https://kewbi.sh/blog/posts/201122/)  
-On crossplatform repo editing. - 22 Nov 2020
