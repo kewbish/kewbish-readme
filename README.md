@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [A Month of Articles](https://kewbi.sh/blog/posts/210207/)  
+On tracking every single article I read in January. - 07 Feb 2021
 - [Hyperpersonalization](https://kewbi.sh/blog/posts/210124/)  
 On extending and making personal tools. - 24 Jan 2021
 - [RSS, bookmarks, & Nitter](https://kewbi.sh/blog/posts/210110/)  
 On centralizing media consumption. - 10 Jan 2021
-- [CPSC 110: 1b](https://kewbi.sh/blog/posts/201227/)  
-On designing functions with HtDF. - 27 Dec 2020
