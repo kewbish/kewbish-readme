@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Towards Web Monetization](https://kewbi.sh/blog/posts/210307/)  
+On speculations about the future of WM. - 07 Mar 2021
 - [CPSC 110: Week 2](https://kewbi.sh/blog/posts/210221/)  
 On designing data in Racket. - 21 Feb 2021
 - [After Code-in](https://kewbi.sh/blog/posts/210214/)  
 On GCI's impacts over the last year. - 14 Feb 2021
-- [A Month of Articles](https://kewbi.sh/blog/posts/210207/)  
-On tracking every single article I read in January. - 07 Feb 2021
