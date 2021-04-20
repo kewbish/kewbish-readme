@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [CPSC 110: Weeks 9 and 10](https://kewbi.sh/blog/posts/210418/)  
+On generative struggles and accumulators. - 18 Apr 2021
+- [CPSC 110: Weeks 7 and 8](https://kewbi.sh/blog/posts/210411/)  
+On local expressions and built-in abstractions. - 11 Apr 2021
 - [CPSC 110: Weeks 5 and 6](https://kewbi.sh/blog/posts/210328/)  
 On helpers and binary search trees. - 28 Mar 2021
-- [CPSC 110: Weeks 3 and 4](https://kewbi.sh/blog/posts/210314/)  
-On trusting the natural recursion. - 14 Mar 2021
-- [Towards Web Monetization](https://kewbi.sh/blog/posts/210307/)  
-On speculations about the future of WM. - 07 Mar 2021
