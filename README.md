@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [CPSC 110: Week 11](https://kewbi.sh/blog/posts/210718/)  
+On graphs and the course as a whole. - 18 Jul 2021
 - [XFCE Monitor + Bluetooth Setup](https://kewbi.sh/blog/posts/210711/)  
 On my workarounds for my laptop setup. - 11 Jul 2021
 - [Indie Games: Influences](https://kewbi.sh/blog/posts/210613/)  
 On the ideal aesthetic behind my game dev. - 13 Jun 2021
-- [Indie Games: A Trail of Tools](https://kewbi.sh/blog/posts/210523/)  
-On my game dev toolbelt as I got started. - 23 May 2021
