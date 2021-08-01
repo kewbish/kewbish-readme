@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Augment Minds 2021](https://kewbi.sh/blog/posts/210801/)  
+On my first unconference and tools for thought. - 01 Aug 2021
 - [Software as Containers](https://kewbi.sh/blog/posts/210725/)  
 On browsers, terminals, and the boxing principle. - 26 Jul 2021
 - [CPSC 110: Week 11](https://kewbi.sh/blog/posts/210718/)  
 On graphs and the course as a whole. - 18 Jul 2021
-- [XFCE Monitor + Bluetooth Setup](https://kewbi.sh/blog/posts/210711/)  
-On my workarounds for my laptop setup. - 11 Jul 2021
