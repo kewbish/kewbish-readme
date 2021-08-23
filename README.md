@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Summer Research School](https://kewbi.sh/blog/posts/210822/)  
+On determinism and delightful doner. - 22 Aug 2021
 - [A Plaintext Zettelkasten](https://kewbi.sh/blog/posts/210815/)  
 On speaking at Augment Minds 2021 and my notetaking system. - 15 Aug 2021
 - [Augment Minds 2021](https://kewbi.sh/blog/posts/210801/)  
 On my first unconference and tools for thought. - 01 Aug 2021
-- [Software as Containers](https://kewbi.sh/blog/posts/210725/)  
-On browsers, terminals, and the boxing principle. - 26 Jul 2021
