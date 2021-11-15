@@ -7,9 +7,9 @@ Get in touch: [kewbish@gmail.com](mailto:kewbish@gmail.com).
 Check out some of my projects below, or read my latest blog posts!
 
 <!--bp-->
+- [Metadata and You](https://kewbi.sh/blog/posts/211114/)  
+On metadata, its dimensions, and its impacts. - 14 Nov 2021
 - [Starting Anki](https://kewbi.sh/blog/posts/211031/)  
 On proper SRS, GTK hacks, and the Leitner system. - 31 Oct 2021
 - [More Linux Tweaks](https://kewbi.sh/blog/posts/211003/)  
 On troubleshooting many Linux-related issues. - 03 Oct 2021
-- [The Process Matters](https://kewbi.sh/blog/posts/210905/)  
-On the journey as an end, not a means. - 05 Sep 2021
