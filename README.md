@@ -6,9 +6,9 @@ Find me on the web on [my website](https://kewbi.sh/) [(and blog too!)](https://
 Check out some of my projects below, or read my latest writing!
 
 <!--bp-->
+- [Least Common Denominators](https://kewbi.sh/blog/posts/211219/)  
+On an atomicized software culture. - 19 Dec 2021
 - [Metadata and You](https://kewbi.sh/blog/posts/211114/)  
 On metadata, its dimensions, and its impacts. - 14 Nov 2021
 - [Starting Anki](https://kewbi.sh/blog/posts/211031/)  
 On proper SRS, GTK hacks, and the Leitner system. - 31 Oct 2021
-- [More Linux Tweaks](https://kewbi.sh/blog/posts/211003/)  
-On troubleshooting many Linux-related issues. - 03 Oct 2021
