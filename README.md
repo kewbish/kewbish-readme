@@ -6,9 +6,9 @@ Find me on the web on [my website](https://kewbi.sh/) [(and blog too!)](https://
 Check out some of my projects below, or read my latest writing!
 
 <!--bp-->
+- [Buzzwords To Come](https://kewbi.sh/blog/posts/220102/)  
+On my far-fetched plans for 2022. - 02 Jan 2022
 - [A Year of Articles](https://kewbi.sh/blog/posts/211226/)  
-On tracking (almost) every article I read this year. - 25 Dec 2021
+On tracking (almost) every article I read this year. - 26 Dec 2021
 - [Least Common Denominators](https://kewbi.sh/blog/posts/211219/)  
 On an atomicized software culture. - 19 Dec 2021
-- [Metadata and You](https://kewbi.sh/blog/posts/211114/)  
-On metadata, its dimensions, and its impacts. - 14 Nov 2021
