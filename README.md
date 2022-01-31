@@ -6,9 +6,9 @@ Find me on the web on [my website](https://kewbi.sh/) [(and blog too!)](https://
 Check out some of my projects below, or read my latest writing!
 
 <!--bp-->
+- [The Secret Garden](https://kewbi.sh/blog/posts/220130/)  
+On public and private thought cultivation. - 30 Jan 2022
 - [Time in Writing](https://kewbi.sh/blog/posts/220116/)  
 On the role of time in iterative writing. - 16 Jan 2022
 - [Buzzwords To Come](https://kewbi.sh/blog/posts/220102/)  
 On my far-fetched plans for 2022. - 02 Jan 2022
-- [A Year of Articles](https://kewbi.sh/blog/posts/211226/)  
-On tracking (almost) every article I read this year. - 26 Dec 2021
