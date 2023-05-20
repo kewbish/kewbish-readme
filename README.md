@@ -1,6 +1,6 @@
 # Hey - I'm Emilie, though on the web I'm Kewbish.
 
-I'm a student software developer, interested in all things web. Currently, I'm a second-year in Computer Science at the [University of British Columbia](https://ubc.ca). I recently interned at [Replit](https://repl.it) in their frontend infrastructure (product) team, working on the IDE experience.
+I'm a student software developer, interested in all things web. Currently, I'm a Software Engineer Intern at [Cloudflare](https://cloudflare.com), working on the Queues team. I'm also a third-year in Computer Science at the [University of British Columbia](https://ubc.ca). I recently interned at [Replit](https://repl.it) in their frontend infrastructure team, working on the IDE experience.
 
 I'm inspired by the Web's potential to cultivate connections and empower creation. The sheer surface area of the Web means it's a central part of our lives — I'd like to explore how we can make it better. This is a Herculean task, but I've dabbled in extending [Web Monetization](https://webmonetization.org/) and applying NLP to create expressive [tools for thought](https://numinous.productions/ttft/) before.
 
