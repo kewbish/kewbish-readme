@@ -4,7 +4,7 @@ I'm a software developer interested in all things HCI and distributed systems. I
 
 I'm inspired by the Web's potential to cultivate connections and empower creation. The sheer surface area of the Web means it's a central part of our lives — I'd like to explore how we can make it better. This is a Herculean task, but I've dabbled in extending [Web Monetization](https://webmonetization.org/), applying NLP to create expressive [tools for thought](https://numinous.productions/ttft/), and exploring distributed systems theory before.
 
-Currently, I'm building [NestedName](https://nested.name), a site to find unique, clean domains like ma․tt, sive․rs, or [emilie․ma](https://emilie.ma).
+Currently, I'm building [NestedName](https://nested.name), a site to find unique, clean domains like ma.tt, sive.rs, or [emilie.ma](https://emilie.ma).
 
 Find me on the web on [my website](https://kewbi.sh/) [(and blog too!)](https://kewbi.sh/blog/). Otherwise, reach out on [LinkedIn](https://www.linkedin.com/in/emilie-ma-kewbish/), or get in touch at [kewbish@gmail.com](mailto:kewbish@gmail.com).
 
